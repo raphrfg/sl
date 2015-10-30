@@ -191,7 +191,7 @@ int add_D51(int x)
         add_man(y + 2, x + 43);
         add_man(y + 2, x + 47);
     }
-    add_smoke(y - 1, x + D51FUNNEL);
+    //add_smoke(y - 1, x + D51FUNNEL);
     return OK;
 }
 
